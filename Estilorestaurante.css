@@ -1,0 +1,59 @@
+body{
+    background:rgb(231, 235, 4);
+    font-family: Georgia, "times New Roman", Times, serif;
+}
+
+h1{
+    color:rgb(22, 22, 133);
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: aqua;
+}
+
+h2{
+    color:rgb(0, 0, 0);
+    font-family: "Georgia";
+}
+
+
+h3{
+    color:rgb(0, 0, 0);
+    font-family: "Georgia";
+
+
+}
+ul{
+
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p{
+    text-align: justify;
+
+}
+
+#parrafo{
+    color:blanchedalmond(6, 75, 179);
+    text-align: center;
+}
+
+img{
+    vertical-align: middle;
+    width: 500px;
+    
+}
+
+.circulo{
+    width: 200px;
+    vertical-align: middle;
+    border-radius: 100%
+}
+
+.circulo > .imagen{
+    width: 500px;
+    height: 500px;
+    border-radius: 100%
+
+}
