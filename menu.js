@@ -1,6 +1,6 @@
-function colocar_titulo(id,titulo){
-    var elemento_lista= document.getElementById(id)
-    elemento_lista.textContent= titulo   
-}
-colocar_titulo("arrozconpollo","Arroz con Pollo")
-colocar_titulo("sopaseca","Sopa Seca")
+let btnmenu = document.getElementById('btnmenu');
+let menu = document.getElementById('menu');
+btnmenu.addEventListener('click', function(){
+    'use strict';
+    menu.classList.toggle('mostrar');
+});
