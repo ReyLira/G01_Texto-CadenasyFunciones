@@ -223,6 +223,16 @@ width: 100%;
     color: whitesmoke;
 }
 
+button{
+    background: #000000;
+    color: whitesmoke;
+    width: 120px;
+    height: 30px;
+    margin-left: 37%;
+    margin-right: 37%
+   
+}
+
 .group__title{
     font-family: "Pacifico",cursive;
     text-align: center;
